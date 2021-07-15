@@ -30,11 +30,7 @@ THEN the deposits or expenses added while they were offline are added to their t
 
 ## Usage
 
-1. [WIP]
-
-## Youtube Link
-
-[WIP]
+1. `npm run start`
 
 ## License
 
